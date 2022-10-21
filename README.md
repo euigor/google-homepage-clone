@@ -1,4 +1,8 @@
-# A google home page clone but with leek spin.
+# A google home page clone.
+
+> very original, i know.
+
+
 > 20/10/2022
 
 ## im bored lol
